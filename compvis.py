@@ -1,0 +1,1 @@
+yolo detect predict model=yolov12l.pt source=0 show=true
